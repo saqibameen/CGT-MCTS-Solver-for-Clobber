@@ -1,0 +1,47 @@
+cgt_vs_cgtdb Data/cgt_mcts_results/cgt_cgtdb_06.txt 6x6 100 runs...
+1: B e1d1
+2: W c2b2
+3: B f2e2
+4: W e4d4
+5: B f4f5
+6: W b5a5
+7: B b6c6
+8: W b3b4
+9: B e3d3
+10: W d4d3
+11: B c3c4
+12: W d3d2
+13: B a3a2
+14: W d5c5
+15: B c4c5
+16: W b2a2
+17: B a1b1
+18: W e6d6
+19: B e2d2
+20: W d6c6
+21: B c5c6
+winner:B wins
+1: W e2e3
+2: B f2f3
+3: W d3d2
+4: B a5a4
+5: W d5d4
+6: B b6b5
+7: W b1a1
+8: B d6e6
+9: W c2b2
+10: B c5c4
+11: W f5f4
+12: B e1d1
+13: W b3b4
+14: B f3e3
+15: W d2d1
+16: B a3a2
+17: W b4a4
+18: B a2b2
+19: W d1c1
+20: B e5e4
+21: W d4e4
+22: B e3e4
+23: W f4e4
+winner:W wins
