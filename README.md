@@ -1,5 +1,7 @@
 # CMPUT 655 Project - A CGT-Aware MCTS Clobber Player
 
+ → [Report and Presentation](/Presentation%20%2B%20Report)
+
 ## Files:
 
 * README.md : This file
